@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zFzLYW4zxxBi8f4HkkP/GGsUlu8utYu5bC5VZln0viwP2hwTyJMVRA/ForbILcmNIPbr9leDeGEsfFOAKiv4A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Zenyno\\Zenyno.Dice\\Zenyno.Dice\\Zenyno.Dice.API\\Zenyno.Dice.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonathanyuen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jonathanyuen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jonathanyuen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\jonathanyuen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jonathanyuen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jonathanyuen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

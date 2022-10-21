@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bbV76930GiH8t4wlEtnQdWOg7vjhT7PDS0sjUtFPPUc=",
+  "Source": "Zenyno.Dice.API",
+  "BasePath": "_content/Zenyno.Dice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
